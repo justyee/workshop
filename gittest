@@ -1,2 +1,4 @@
 Test for GitHub
 git commit test
+git add <files>
+git commit -a
